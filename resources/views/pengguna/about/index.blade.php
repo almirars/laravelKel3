@@ -7,7 +7,9 @@
                    <div class="col-12">
                        <div class="titlepage">
                         <h2><strong class="black"> About</strong>  Us</h2>
-                        <span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</span>
+                        <span>Website ini membantu para pendaki Gunung Lawu
+                           agar bisa memesan tiket mendaki secara mudah dan dapat dilakukan di mana saja.
+                        </span>
                      </div>
                    </div>
                 </div>
@@ -26,8 +28,8 @@
                         <div class="row marginii">
                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                               <div class="carousel-sporrt_text ">
-                                 <h1 class="sporrt_text">Best sports item shop our</h1>
-                                 <p  class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected randomised words which don't look even slightly believable</p>
+                                 <h1 class="sporrt_text">Kemudahan</h1>
+                                 <p  class="lorem_text">Pada website ini sudah dilengkapi dengan tata cara pemesanan tiket dan juga informasi mengenai jalur yang bisa dilewati oleh para pendaki</p>
                                  <div class="btn_main">
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
                                  </div>
@@ -35,7 +37,7 @@
                            </div>
                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                               <div class="img-box">
-                                 <figure><img src="images/child-image.png" style="max-width: 100%; border: 15px solid #fff;"/></figure>
+                                 <figure><img src="images/ga.png" style="max-width: 100%; border: 15px solid #fff;"/></figure>
                               </div>
                            </div>
                         </div>

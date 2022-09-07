@@ -16,7 +16,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
                                     <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
-                                    <p>Gunung pundak memiliki ketinggian 1.585 mdpl tempat ini sangat cocok bagi kalian yang suka bermalam dan berwisata sembari menikmati suasana alam yang memanjakan mata.</p>
+                                    <p>Gunung Lawu terletak di Pulau Jawa, Indonesia, tepatnya di perbatasan Provinsi Jawa Tengah dan Jawa Timur. Gunung Lawu terletak di antara tiga kabupaten yaitu Kabupaten Karanganyar, Jawa Tengah, Kabupaten Ngawi, dan Kabupaten Magetan, Jawa Timur.</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">About </a>
                                 </div>
@@ -35,7 +35,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
                                 <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
-                                    <p>Gunung pundak memiliki ketinggian 1.585 mdpl tempat ini sangat cocok bagi kalian yang suka bermalam dan berwisata sembari menikmati suasana alam yang memanjakan mata.</p>
+                                    <p>Gunung Lawu terletak di Pulau Jawa, Indonesia, tepatnya di perbatasan Provinsi Jawa Tengah dan Jawa Timur. Gunung Lawu terletak di antara tiga kabupaten yaitu Kabupaten Karanganyar, Jawa Tengah, Kabupaten Ngawi, dan Kabupaten Magetan, Jawa Timur.</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a>
                                 </div>
@@ -54,7 +54,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
                                 <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
-                                    <p>Gunung pundak memiliki ketinggian 1.585 mdpl tempat ini sangat cocok bagi kalian yang suka bermalam dan berwisata sembari menikmati suasana alam yang memanjakan mata.</p>
+                                    <p>Gunung Lawu terletak di Pulau Jawa, Indonesia, tepatnya di perbatasan Provinsi Jawa Tengah dan Jawa Timur. Gunung Lawu terletak di antara tiga kabupaten yaitu Kabupaten Karanganyar, Jawa Tengah, Kabupaten Ngawi, dan Kabupaten Magetan, Jawa Timur.</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a>
                                 </div>
@@ -82,7 +82,7 @@
                 <div class="col-md-12 ">
                     <div class="titlepage">
                         <h2><strong class="black"> Gambar</strong> Gunung</h2>
-                        <span>Gunung Arjuno Welirang</span>
+                        <span>Gunung Lawu</span>
                     </div>
                 </div>
             </div>
@@ -94,22 +94,22 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="sport_product">
                         <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Welirang</h4>
+                        <h3> Rp <strong class="price_text">50</strong></h3>
+                        <h4>Gunung Lawu</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
                     <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Welirang</h4>
+                        <h3> Rp <strong class="price_text">50</strong></h3>
+                        <h4>Gunung Lawu</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
                     <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Welirang</h4>
+                        <h3> Rp <strong class="price_text">50</strong></h3>
+                        <h4>Gunung Lawu</h4>
                     </div>
                 </div>
 
@@ -119,22 +119,22 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="sport_product">
                     <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Welirang</h4>
+                        <h3> Rp <strong class="price_text">50</strong></h3>
+                        <h4>Gunung Lawu</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
                     <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Welirang</h4>
+                        <h3> Rp <strong class="price_text">50</strong></h3>
+                        <h4>Gunung Lawu</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
                     <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Welirang</h4>
+                        <h3> Rp <strong class="price_text">50</strong></h3>
+                        <h4>Gunung Lawu</h4>
                     </div>
                 </div>
             </div>
@@ -171,8 +171,8 @@
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-sporrt_text ">
-                                    <h1 class="sporrt_text">Best sports item shop our</h1>
-                                    <p class="lorem_text">Tiket pos 1</p>
+                                    <h1 class="sporrt_text">Pemesanan Tiket</h1>
+                                    <p class="lorem_text">Gunung Lawu</p>
                                     <div class="btn_main">
                                         <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
                                     </div>
@@ -180,14 +180,14 @@
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="img-box">
-                                    <figure><img src="images/child-image.png"
+                                    <figure><img src="images/lawu.jpg"
                                             style="max-width: 100%; border: 15px solid #fff;" /></figure>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
+                <!-- <div class="carousel-item">
                     <div class="container">
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -207,8 +207,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
+                </div> -->
+                <!-- <div class="carousel-item">
                     <div class="container">
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -228,7 +228,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -240,9 +240,8 @@
             <div class="row">
                 <div class="col-md-12 ">
                     <div class="titlepage">
-                        <h2> Testmonial</h2>
-                        <span style="text-align: center;">available, but the majority have suffered alteration in some
-                            form, by injected randomised words which don't look even slightly believable</span>
+                        <h2> Testimonial </h2>
+                        <span style="text-align: center;">Berikut cerita para pendaki yang sudah menggunakan layanan pada website ini.</span>
                     </div>
                 </div>
             </div>
@@ -269,8 +268,9 @@
                                     <div class="john">
                                         <div class="john_image"><img src="images/basketball.jpg"
                                                 style="max-width: 100%;"></div>
-                                        <div class="john_text">GUNUNG<span style="color: #fffcf4;">(ceo)</span></div>
-                                        <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p>
+                                        <div class="john_text">XXX<span style="color: #fffcf4;">(pendaki)</span></div>
+                                        <p class="lorem_ipsum_text">Websitenya bantu banget, jadi ga susah sekarang kalo mau booking tiket </p>
+                                        <!-- <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p> -->
                                         <div class="icon_image"><img src="images/icon-1.png"></div>
                                     </div>
                                 </div>
@@ -280,8 +280,8 @@
                                     <div class="john">
                                         <div class="john_image"><img src="images/basketball.jpg"
                                                 style="max-width: 100%;"></div>
-                                        <div class="john_text">GUNUNG<span style="color: #fffcf4;">(ceo)</span></div>
-                                        <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p>
+                                        <div class="john_text">YYY<span style="color: #fffcf4;">(pendaki)</span></div>
+                                        <p class="lorem_ipsum_text">Bermanfaat sekali</p>
                                         <div class="icon_image"><img src="images/icon-1.png"></div>
                                     </div>
                                 </div>
@@ -291,8 +291,8 @@
                                     <div class="john">
                                         <div class="john_image"><img src="images/basketball.jpg"
                                                 style="max-width: 100%;"></div>
-                                        <div class="john_text">GUNUNG<span style="color: #fffcf4;">(ceo)</span></div>
-                                        <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p>
+                                        <div class="john_text">ZZZ<span style="color: #fffcf4;">(pendaki)</span></div>
+                                        <p class="lorem_ipsum_text">Websitenya sangat membantu </p>
                                         <div class="icon_image"><img src="images/icon-1.png"></div>
                                     </div>
                                 </div>

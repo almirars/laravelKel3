@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
-    <title>Gunung Arjuno Welirang</title>
+    <title>Gunung Lawu</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -105,7 +105,7 @@
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="site_info">
                             <span class="info_icon"><img src="images/map-icon.png" /></span>
-                            <span style="margin-top: 10px;">Arjuno Welirang</span>
+                            <span style="margin-top: 10px;">Gunung Lawu</span>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
@@ -117,7 +117,7 @@
                     <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="site_info">
                             <span class="info_icon"><img src="images/email-icon.png" /></span>
-                            <span style="margin-top: 21px;">gunungwelirang@gmail.com</span>
+                            <span style="margin-top: 21px;">lawukulawumu@gmail.com</span>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
 
     <div id="plant" class="footer layout_padding">
         <div class="container">
-            <p>@2022 TSA WEB B Design by<a href="https://html.design/"> Free Html Templates</a></p>
+            <p>@2022 TSA WEB B Kel 3 Design by<a href="https://html.design/"> Free Html Templates</a></p>
         </div>
     </div>
     {{-- endfooter --}}

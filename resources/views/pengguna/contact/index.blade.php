@@ -7,7 +7,7 @@
                     <div class="titlepage">
                         <h2 style="text-align: center; margin-top: 145px;">Contact <strong
                                 style="color: #111315;">Us</strong></h2>
-                        <span style="text-align: center;">Gunung welirang</span>
+                        <span style="text-align: center;">Gunung Lawu</span>
                     </div>
                 </div>
             </div>
