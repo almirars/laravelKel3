@@ -14,11 +14,11 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', [HomeController::class, 'index']);
 
-Route::get('home', function(){
-    return view('main');
-});
+Route::get('/about', [HomeController::class, 'about']);
+
+Route::get('/contact', [HomeController::class, 'contact']);
+
+Route::get('/booking', [HomeController::class, 'booking']);
 

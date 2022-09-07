@@ -5,10 +5,9 @@
             <div class="row">
                 <div class="col-md-12 ">
                     <div class="titlepage">
-                        <h2 style="text-align: center; margin-top: 45px;">Contact <strong
+                        <h2 style="text-align: center; margin-top: 145px;">Contact <strong
                                 style="color: #111315;">Us</strong></h2>
-                        <span style="text-align: center;">available, but the majority have suffered alteration in some form,
-                            by injected randomised words which don't look even slightly believable</span>
+                        <span style="text-align: center;">Gunung welirang</span>
                     </div>
                 </div>
             </div>

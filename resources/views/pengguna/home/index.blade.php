@@ -15,16 +15,15 @@
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
-                                    <h1>Welcome to <strong class="color">Our Shop</strong></h1>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour</p>
+                                    <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
+                                    <p>Gunung pundak memiliki ketinggian 1.585 mdpl tempat ini sangat cocok bagi kalian yang suka bermalam dan berwisata sembari menikmati suasana alam yang memanjakan mata.</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">About </a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="img-box">
-                                    <figure><img src="images/boksing-gloves.png" alt="img" /></figure>
+                                    <figure><img src="images/boksing-gloves.jpg" alt="img" /></figure>
                                 </div>
                             </div>
                         </div>
@@ -35,16 +34,15 @@
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
-                                    <h1>Welcome to <strong class="color">Our Shop</strong></h1>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour</p>
+                                <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
+                                    <p>Gunung pundak memiliki ketinggian 1.585 mdpl tempat ini sangat cocok bagi kalian yang suka bermalam dan berwisata sembari menikmati suasana alam yang memanjakan mata.</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="img-box ">
-                                    <figure><img src="images/boksing-gloves.png" alt="img" /></figure>
+                                    <figure><img src="images/boksing-gloves.jpg" alt="img" /></figure>
                                 </div>
                             </div>
                         </div>
@@ -55,16 +53,15 @@
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
-                                    <h1>Welcome to <strong class="color">Our Shop</strong></h1>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
-                                        have suffered alteration in some form, by injected humour</p>
+                                <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
+                                    <p>Gunung pundak memiliki ketinggian 1.585 mdpl tempat ini sangat cocok bagi kalian yang suka bermalam dan berwisata sembari menikmati suasana alam yang memanjakan mata.</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Buy Now</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">About</a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="img-box">
-                                    <figure><img src="images/boksing-gloves.png" alt="img" /></figure>
+                                    <figure><img src="images/boksing-gloves.jpg" alt="img" /></figure>
                                 </div>
                             </div>
                         </div>
@@ -84,10 +81,8 @@
             <div class="row">
                 <div class="col-md-12 ">
                     <div class="titlepage">
-                        <h2><strong class="black"> Our</strong> Products</h2>
-                        <span>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected randomised words which don't look even
-                            slightly believable</span>
+                        <h2><strong class="black"> Gambar</strong> Gunung</h2>
+                        <span>Gunung Arjuno Welirang</span>
                     </div>
                 </div>
             </div>
@@ -98,23 +93,23 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="sport_product">
-                        <figure><img src="images/basketball.png" alt="img" /></figure>
+                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
                         <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>basket ball</h4>
+                        <h4>Welirang</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
-                        <figure><img src="images/t-shirt.png" alt="img" /></figure>
+                    <figure><img src="images/basketball.jpg" alt="img" /></figure>
                         <h3> $<strong class="price_text">50</strong></h3>
-                        <h4> T-Shirt</h4>
+                        <h4>Welirang</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
-                        <figure><img src="images/game.png" alt="img" /></figure>
+                    <figure><img src="images/basketball.jpg" alt="img" /></figure>
                         <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Game</h4>
+                        <h4>Welirang</h4>
                     </div>
                 </div>
 
@@ -123,23 +118,23 @@
 
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="sport_product">
-                        <figure><img src="images/basketball.png" alt="img" /"></figure>
+                    <figure><img src="images/basketball.jpg" alt="img" /></figure>
                         <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>basket ball</h4>
+                        <h4>Welirang</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
-                        <figure><img src="images/t-shirt.png" alt="img" /"></figure>
+                    <figure><img src="images/basketball.jpg" alt="img" /></figure>
                         <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>T-Shirt</h4>
+                        <h4>Welirang</h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
                     <div class="sport_product">
-                        <figure><img src="images/game.png" alt="img" /"></figure>
+                    <figure><img src="images/basketball.jpg" alt="img" /></figure>
                         <h3> $<strong class="price_text">50</strong></h3>
-                        <h4>Game</h4>
+                        <h4>Welirang</h4>
                     </div>
                 </div>
             </div>
@@ -154,9 +149,7 @@
                 <div class="col-12">
                     <div class="titlepage">
                         <h2><strong class="black"> About</strong> Us</h2>
-                        <span>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected randomised words which don't look even
-                            slightly believable</span>
+                        <span>Gunung sangat indah dan nyaman untuk tempat wisata</span>
                     </div>
                 </div>
             </div>
@@ -179,12 +172,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-sporrt_text ">
                                     <h1 class="sporrt_text">Best sports item shop our</h1>
-                                    <p class="lorem_text">There are many variations of passages of Lorem Ipsum
-                                        available, but the majority have suffered alteration in some form, by injected
-                                        randomised words which don't look even slightly believableThere are many
-                                        variations of passages of Lorem Ipsum available, but the majority have suffered
-                                        alteration in some form, by injected randomised words which don't look even
-                                        slightly believable</p>
+                                    <p class="lorem_text">Tiket pos 1</p>
                                     <div class="btn_main">
                                         <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
                                     </div>
@@ -205,12 +193,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-sporrt_text ">
                                     <h1 class="sporrt_text">Best sports item shop our</h1>
-                                    <p class="lorem_text">There are many variations of passages of Lorem Ipsum
-                                        available, but the majority have suffered alteration in some form, by injected
-                                        randomised words which don't look even slightly believableThere are many
-                                        variations of passages of Lorem Ipsum available, but the majority have suffered
-                                        alteration in some form, by injected randomised words which don't look even
-                                        slightly believable</p>
+                                    <p class="lorem_text">Tiket Pos 2</p>
                                     <div class="btn_main">
                                         <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
                                     </div>
@@ -218,7 +201,7 @@
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="img-box ">
-                                    <figure><img src="images/child-image.png"
+                                    <figure><img src="images/child-image.jpg"
                                             style="max-width: 100%; border: 15px solid #fff;" /></figure>
                                 </div>
                             </div>
@@ -231,12 +214,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-sporrt_text ">
                                     <h1 class="sporrt_text">Best sports item shop our</h1>
-                                    <p class="lorem_text">There are many variations of passages of Lorem Ipsum
-                                        available, but the majority have suffered alteration in some form, by injected
-                                        randomised words which don't look even slightly believableThere are many
-                                        variations of passages of Lorem Ipsum available, but the majority have suffered
-                                        alteration in some form, by injected randomised words which don't look even
-                                        slightly believable</p>
+                                    <p class="lorem_text">Tiket Pos 3</p>
                                     <div class="btn_main">
                                         <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
                                     </div>
@@ -244,7 +222,7 @@
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="img-box">
-                                    <figure><img src="images/child-image.png"
+                                    <figure><img src="images/child-image.jpg"
                                             style="max-width: 100%; border: 15px solid #fff;" /></figure>
                                 </div>
                             </div>
@@ -289,16 +267,10 @@
                             <div class="carousel-item active">
                                 <div class="titlepage">
                                     <div class="john">
-                                        <div class="john_image"><img src="images/john-image.png"
+                                        <div class="john_image"><img src="images/basketball.jpg"
                                                 style="max-width: 100%;"></div>
-                                        <div class="john_text">JOHN DUE<span style="color: #fffcf4;">(ceo)</span></div>
-                                        <p class="lorem_ipsum_text">It is a long established fact that a reader will be
-                                            distracted by the readable content of a page when looking at its layout. The
-                                            point of using Lorem Ipsum is that it has a more-or-less normal distribution
-                                            of letters, asIt is a long established fact that a reader will be distracted
-                                            by the readable content of a page when looking at its layout. The point of
-                                            using Lorem Ipsum is that it has a more-or-less normal distribution of
-                                            letters, as </p>
+                                        <div class="john_text">GUNUNG<span style="color: #fffcf4;">(ceo)</span></div>
+                                        <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p>
                                         <div class="icon_image"><img src="images/icon-1.png"></div>
                                     </div>
                                 </div>
@@ -306,16 +278,10 @@
                             <div class="carousel-item">
                                 <div class="titlepage">
                                     <div class="john">
-                                        <div class="john_image"><img src="images/john-image.png"
+                                        <div class="john_image"><img src="images/basketball.jpg"
                                                 style="max-width: 100%;"></div>
-                                        <div class="john_text">JOHN DUE<span style="color: #fffcf4;">(ceo)</span></div>
-                                        <p class="lorem_ipsum_text">It is a long established fact that a reader will be
-                                            distracted by the readable content of a page when looking at its layout. The
-                                            point of using Lorem Ipsum is that it has a more-or-less normal distribution
-                                            of letters, asIt is a long established fact that a reader will be distracted
-                                            by the readable content of a page when looking at its layout. The point of
-                                            using Lorem Ipsum is that it has a more-or-less normal distribution of
-                                            letters, as </p>
+                                        <div class="john_text">GUNUNG<span style="color: #fffcf4;">(ceo)</span></div>
+                                        <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p>
                                         <div class="icon_image"><img src="images/icon-1.png"></div>
                                     </div>
                                 </div>
@@ -323,16 +289,10 @@
                             <div class="carousel-item">
                                 <div class="titlepage">
                                     <div class="john">
-                                        <div class="john_image"><img src="images/john-image.png"
+                                        <div class="john_image"><img src="images/basketball.jpg"
                                                 style="max-width: 100%;"></div>
-                                        <div class="john_text">JOHN DUE<span style="color: #fffcf4;">(ceo)</span></div>
-                                        <p class="lorem_ipsum_text">It is a long established fact that a reader will be
-                                            distracted by the readable content of a page when looking at its layout. The
-                                            point of using Lorem Ipsum is that it has a more-or-less normal distribution
-                                            of letters, asIt is a long established fact that a reader will be distracted
-                                            by the readable content of a page when looking at its layout. The point of
-                                            using Lorem Ipsum is that it has a more-or-less normal distribution of
-                                            letters, as </p>
+                                        <div class="john_text">GUNUNG<span style="color: #fffcf4;">(ceo)</span></div>
+                                        <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p>
                                         <div class="icon_image"><img src="images/icon-1.png"></div>
                                     </div>
                                 </div>
@@ -365,8 +325,7 @@
                 <div class="col-md-12 ">
                     <div class="titlepage">
                         <h2><strong class="black"> Contact</strong> Us</h2>
-                        <span style="text-align: center;">available, but the majority have suffered alteration in some
-                            form, by injected randomised words which don't look even slightly believable</span>
+                        <span style="text-align: center;">Hubungi jika ada keperluan untuk mendaki gunung</span>
                     </div>
                 </div>
             </div>
