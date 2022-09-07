@@ -37,7 +37,7 @@
                            </div>
                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                               <div class="img-box">
-                                 <figure><img src="images/ga.png" style="max-width: 100%; border: 15px solid #fff;"/></figure>
+                                 <figure><img src="{{ asset('images/ga.png') }}" style="max-width: 100%; border: 15px solid #fff;"/></figure>
                               </div>
                            </div>
                         </div>
