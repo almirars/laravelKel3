@@ -37,9 +37,6 @@
                         <h4>Status</h4>
                      </div>
                   </div>
-       
-          
-            
                 </div>
                </div>
               </div>
