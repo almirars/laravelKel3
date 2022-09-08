@@ -17,10 +17,10 @@
                          <div class="limit-box">
                              <nav class="main-menu">
                                  <ul class="menu-area-main">
-                                     <li style="color;black"><a href="{{ url('/') }}">Beranda</a></li>
-                                     <li><a href="{{ url('about') }}">Informasi</a></li>
-                                     <li><a href="{{ url('booking') }}">Pemesanan</a></li>
-                                     <li><a href="{{ url('contact') }}">Pengaduan</a></li>
+                                     <li><a class="{{ Request::path() === '/' ? 'text-white' : '' }}" href="{{ url('/') }}">Beranda</a></li>
+                                     <li><a class="{{ Request::path() === 'about' ? 'text-white' : '' }}" href="{{ url('about') }}">Informasi</a></li>
+                                     <li><a class="{{ Request::path() === 'booking' ? 'text-white' : '' }}" href="{{ url('booking') }}" href="{{ url('booking') }}">Pemesanan</a></li>
+                                     <li><a class="{{ Request::path() === 'contact' ? 'text-white' : '' }}" href="{{ url('contact') }}" href="{{ url('contact') }}">Pengaduan</a></li>
                                      </li>
                                  </ul>
                              </nav>
