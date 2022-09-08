@@ -17,9 +17,9 @@
                          <div class="limit-box">
                              <nav class="main-menu">
                                  <ul class="menu-area-main">
-                                     <li style="color;black"><a href="{{ url('/') }}">Home</a></li>
-                                     <li><a href="{{ url('about') }}">About</a></li>
-                                     <li><a href="{{ url('booking') }}">Booking</a></li>
+                                     <li style="color;black"><a href="{{ url('/') }}">Beranda</a></li>
+                                     <li><a href="{{ url('about') }}">Informasi</a></li>
+                                     <li><a href="{{ url('booking') }}">Pemesanan</a></li>
                                      <li><a href="{{ url('contact') }}">Pengaduan</a></li>
                                      </li>
                                  </ul>

@@ -6,7 +6,7 @@
                 <div class="row">
                    <div class="col-12">
                        <div class="titlepage">
-                        <h2><strong class="black"> About</strong>  Us</h2>
+                        <h2><strong class="black"> Seputar</strong>  Informasi</h2>
                         <span>Website ini membantu para pendaki Gunung Lawu
                            agar bisa memesan tiket mendaki secara mudah dan dapat dilakukan di mana saja.
                         </span>
