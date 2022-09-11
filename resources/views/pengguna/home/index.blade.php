@@ -15,7 +15,7 @@
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
-                                    <h1>Welcome to <strong class="color">Booking Ticket</strong></h1>
+                                    <h1>Selamat Datang Di <strong class="color">Booking Ticket</strong></h1>
                                     <p>Gunung Lawu terletak di Pulau Jawa, Indonesia, tepatnya di perbatasan Provinsi Jawa
                                         Tengah dan Jawa Timur. Gunung Lawu terletak di antara tiga kabupaten yaitu Kabupaten
                                         Karanganyar, Jawa Tengah, Kabupaten Ngawi, dan Kabupaten Magetan, Jawa Timur.</p>
@@ -57,7 +57,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-caption ">
                                     <h1><strong class="color">Pengaduan</strong></h1>
-                                    <p>GWebsite ini juga dilengkapi halaman pengaduan, sehingga kami bisa terus memperbarui
+                                    <p>Website ini juga dilengkapi halaman pengaduan, sehingga kami bisa terus memperbarui
                                         sistem sesuai kebutuhan para pendaki</p>
                                     <a class="btn btn-lg btn-primary" href="#" role="button">Masuk</a>
                                     <a class="btn btn-lg btn-primary" href="about.html" role="button">Registrasi</a>
@@ -85,8 +85,7 @@
             <div class="row">
                 <div class="col-md-12 ">
                     <div class="titlepage">
-                        <h2><strong class="black"> Gambar</strong> Gunung</h2>
-                        <span>Gunung Lawu</span>
+                        <h2><strong class="black"> Peta</strong> Gunung Lawu</h2>
                     </div>
                 </div>
             </div>
@@ -94,45 +93,19 @@
     </div>
     <div class="clothes_main section ">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                    <div class="sport_product">
-                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h4>Gunung Lawu</h4>
-                    </div>
+            <div class="row justify-content-center">
+                <div class="col-md-2">
+                    <img src="images/candi-cetho.png" alt="img" />
+                    <h4 class="text-center text-white">Candi Cetho</h4>
+                    <h4 class="text-center text-white"><i class="fa fa-download" aria-hidden="true"
+                            style="color:#009CFF;"></i></h4>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
-                    <div class="sport_product">
-                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h4>Gunung Lawu</h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
-                    <div class="sport_product">
-                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h4>Gunung Lawu</h4>
-                    </div>
-                </div>
-
-
-
-
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
-                    <div class="sport_product">
-                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h4>Gunung Lawu</h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
-                    <div class="sport_product">
-                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h4>Gunung Lawu</h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 ">
-                    <div class="sport_product">
-                        <figure><img src="images/basketball.jpg" alt="img" /></figure>
-                        <h4>Gunung Lawu</h4>
+                <div class="col-md-2">
+                    <div>
+                        <img src="images/peta-cemoro.png" alt="img" />
+                        <h4 class="text-center text-white">Cemoro Sewu dan Cemoro Kandang</h4>
+                        <h4 class="text-center text-white"><i class="fa fa-download" aria-hidden="true"
+                                style="color:#009CFF;"></i></h4>
                     </div>
                 </div>
             </div>
@@ -146,8 +119,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="titlepage">
-                        <h2><strong class="black"> About</strong> Us</h2>
-                        <span>Gunung sangat indah dan nyaman untuk tempat wisata</span>
+                        <h2><strong class="black"> Pemesanan</strong> Ticket</h2>
                     </div>
                 </div>
             </div>
@@ -169,10 +141,12 @@
                         <div class="row marginii">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="carousel-sporrt_text ">
-                                    <h1 class="sporrt_text">Pemesanan Tiket</h1>
-                                    <p class="lorem_text">Gunung Lawu</p>
+                                    <p class="lorem_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah
+                                        ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan
+                                        pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran
+                                        dilakukan jauh hari sebelum tanggal keberangkatan.</p>
                                     <div class="btn_main">
-                                        <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                        <a class="btn btn-lg btn-primary" href="#" role="button">Pesan</a>
                                     </div>
                                 </div>
                             </div>
@@ -186,47 +160,47 @@
                     </div>
                 </div>
                 <!-- <div class="carousel-item">
-                                                                                        <div class="container">
-                                                                                            <div class="row marginii">
-                                                                                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                    <div class="carousel-sporrt_text ">
-                                                                                                        <h1 class="sporrt_text">Best sports item shop our</h1>
-                                                                                                        <p class="lorem_text">Tiket Pos 2</p>
-                                                                                                        <div class="btn_main">
-                                                                                                            <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                    <div class="img-box ">
-                                                                                                        <figure><img src="images/child-image.jpg"
-                                                                                                                style="max-width: 100%; border: 15px solid #fff;" /></figure>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div> -->
+                                                                                                                                                            <div class="container">
+                                                                                                                                                                <div class="row marginii">
+                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                        <div class="carousel-sporrt_text ">
+                                                                                                                                                                            <h1 class="sporrt_text">Best sports item shop our</h1>
+                                                                                                                                                                            <p class="lorem_text">Tiket Pos 2</p>
+                                                                                                                                                                            <div class="btn_main">
+                                                                                                                                                                                <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                                                                                                                                                            </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                    </div>
+                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                        <div class="img-box ">
+                                                                                                                                                                            <figure><img src="images/child-image.jpg"
+                                                                                                                                                                                    style="max-width: 100%; border: 15px solid #fff;" /></figure>
+                                                                                                                                                                        </div>
+                                                                                                                                                                    </div>
+                                                                                                                                                                </div>
+                                                                                                                                                            </div>
+                                                                                                                                                        </div> -->
                 <!-- <div class="carousel-item">
-                                                                                        <div class="container">
-                                                                                            <div class="row marginii">
-                                                                                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                    <div class="carousel-sporrt_text ">
-                                                                                                        <h1 class="sporrt_text">Best sports item shop our</h1>
-                                                                                                        <p class="lorem_text">Tiket Pos 3</p>
-                                                                                                        <div class="btn_main">
-                                                                                                            <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                    <div class="img-box">
-                                                                                                        <figure><img src="images/child-image.jpg"
-                                                                                                                style="max-width: 100%; border: 15px solid #fff;" /></figure>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div> -->
+                                                                                                                                                            <div class="container">
+                                                                                                                                                                <div class="row marginii">
+                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                        <div class="carousel-sporrt_text ">
+                                                                                                                                                                            <h1 class="sporrt_text">Best sports item shop our</h1>
+                                                                                                                                                                            <p class="lorem_text">Tiket Pos 3</p>
+                                                                                                                                                                            <div class="btn_main">
+                                                                                                                                                                                <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                                                                                                                                                            </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                    </div>
+                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                        <div class="img-box">
+                                                                                                                                                                            <figure><img src="images/child-image.jpg"
+                                                                                                                                                                                    style="max-width: 100%; border: 15px solid #fff;" /></figure>
+                                                                                                                                                                        </div>
+                                                                                                                                                                    </div>
+                                                                                                                                                                </div>
+                                                                                                                                                            </div>
+                                                                                                                                                        </div> -->
             </div>
         </div>
     </section>
@@ -268,11 +242,12 @@
                                         </div>
                                         <div class="john_text">Cemoro Sewu<span style="color: #fffcf4;">(Rute
                                                 Termudah)</span></div>
-                                        <p class="lorem_ipsum_text">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                            elit. Veniam ducimus dignissimos repellendus atque nulla distinctio quis. Magni,
-                                            inventore, ex alias corrupti voluptatibus expedita sit mollitia quaerat, ipsa
-                                            nihil illum iure! </p>
-                                        <!-- <p class="lorem_ipsum_text">Cermati tata cara dan aturan sesuai dengan SOP yang telah ditetapkan. Booking dapat dilakukan 24/7 dan proses Verifikasi Pembayaran dilakukan pada hari dan jam kerja. Sehingga disarankan untuk melakukan booking dan pembayaran dilakukan jauh hari sebelum tanggal keberangkatan. </p> -->
+                                        <p class="lorem_ipsum_text">Cemoro Sewu terletak di jalan antara kabupaten
+                                            Karanganyar dan Magetan tepatnya di jalan dari Tawangmangu menuju Sarangan.
+                                            Untuk lebih mudahnya yang perlu kita tuju adalah Tawangmangu, Jawa Tengah. Jika
+                                            kita dari arah barat maka tujulah Solo, kemudian Tawangmangu. Jika dari arah
+                                            Timur maka tujulah arah Magetan, lalu Tawangmangu. Karena tempatnya yang populer
+                                            maka sekiranya akan mudah untuk menuju ke sana.</p>
                                     </div>
                                 </div>
                             </div>
@@ -283,10 +258,12 @@
                                         </div>
                                         <div class="john_text">Cemoro Kandang<span style="color: #fffcf4;">(Rute
                                                 Normal)</span></div>
-                                        <p class="lorem_ipsum_text">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                            elit. Veniam ducimus dignissimos repellendus atque nulla distinctio quis. Magni,
-                                            inventore, ex alias corrupti voluptatibus expedita sit mollitia quaerat, ipsa
-                                            nihil illum iure!</p>
+                                        <p class="lorem_ipsum_text">Cemoro Kandang terletak tidak jauh dari basecamp Cemoro
+                                            Sewu. Untuk mencapai basecamp Cemoro Kandang tidaklah susah. Sama seperti Cemoro
+                                            Sewu, kita hanya perlu menuju daerah Tawangmangu. Jika kita dari arah barat maka
+                                            tujulah Solo, kemudian Tawangmangu. Jika dari arah Timur maka tujulah arah
+                                            Magetan, lalu Tawangmangu. Karena tempatnya yang populer maka sekiranya akan
+                                            mudah untuk menuju ke sana.</p>
                                     </div>
                                 </div>
                             </div>
@@ -297,10 +274,13 @@
                                         </div>
                                         <div class="john_text">Bandi Cetho<span style="color: #fffcf4;">(Rute Normal)</span>
                                         </div>
-                                        <p class="lorem_ipsum_text">Lorem ipsum, dolor sit amet consectetur adipisicing
-                                            elit. Veniam ducimus dignissimos repellendus atque nulla distinctio quis. Magni,
-                                            inventore, ex alias corrupti voluptatibus expedita sit mollitia quaerat, ipsa
-                                            nihil illum iure! </p>
+                                        <p class="lorem_ipsum_text">Jalur pendakian gunung lawu via cetho akhir - akhir ini
+                                            sangat diminati karena sekalian wisata di candi cetho dan kebun teh kemuning dan
+                                            yang paling diminati adalah jalur tracknya yang dipenuhi dengan padang savana,
+                                            untuk bisa sampai ke titik awal pendakian gunung lawu via candi cetho kamu bisa
+                                            menuju ke kawasan wisata candi cetho jika kamu berasal dari jakarta, bisa naik
+                                            kereta turun di solo kemudian naik bus menuju terminal ngargoyoso dari terminal
+                                            ini kamu bisa ojek atau sewa mobil menuju candi cetho hanya berjarak +-6km</p>
                                     </div>
                                 </div>
                             </div>
