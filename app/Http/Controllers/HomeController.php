@@ -13,7 +13,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-       // return 'Selamat Datang';
+        // return 'Selamat Datang';
         return view('pengguna.home.index');
     }
     /**
@@ -23,7 +23,7 @@ class HomeController extends Controller
      */
     public function about()
     {
-        return view('pengguna.about.index');
+        return view('pengguna.informasi.index');
     }
 
     /**
@@ -34,12 +34,11 @@ class HomeController extends Controller
      */
     public function contact()
     {
-        return view('pengguna.contact.index');
+        return view('pengguna.pengaduan.index');
     }
 
     public function booking()
     {
-        return view('pengguna.booking.index');
+        return view('pengguna.pemesanan.index');
     }
 }
-
