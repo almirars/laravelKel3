@@ -30,11 +30,11 @@ class PageController extends Controller
     }
 
     public function error_404(){
-        return view('admin.pages.samples.error_404');
+        return view('admin.pages.samples.error-404');
     }
 
     public function error_500(){
-        return view('admin.pages.samples.error_500');
+        return view('admin.pages.samples.error-500');
     }
 
     public function login(){
