@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateUserTable extends Migration
+class CreatePetugasPosTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,12 @@ class CreateUserTable extends Migration
      */
     public function up()
     {
-        Schema::create('user', function (Blueprint $table) {
-            $table->id();
-            $table->string('username');
+        Schema::create('petugas_pos', function (Blueprint $table) {
+            $table->bigIncrements('id_petugas_pos');
+            $table->unsignedBigInteger('jalur_id');
+            $table->string('name');
+            $table->string('no_telpon');
+            $table->string('email');
             $table->string('password');
             $table->timestamps();
         });
@@ -28,6 +31,6 @@ class CreateUserTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('user');
+        Schema::dropIfExists('petugas_pos');
     }
 }

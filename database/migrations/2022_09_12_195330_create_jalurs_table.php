@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class NewsTable extends Migration
+class CreateJalursTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,11 @@ class NewsTable extends Migration
      */
     public function up()
     {
-        Schema::create('news', function (Blueprint $table) {
-            $table->increments('id');
-            $table->string('title');
-            $table->string('content');
-            $table->date('post_date');
-            $table->string('news_image');
+        Schema::create('jalurs', function (Blueprint $table) {
+            $table->bigIncrements('id_jalur');
+            $table->string('nama');
+            $table->string('kategori');
+            $table->string('deskripsi');
             $table->timestamps();
         });
     }
@@ -30,6 +29,6 @@ class NewsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('news');
+        Schema::dropIfExists('jalurs');
     }
 }

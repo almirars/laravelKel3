@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePenggaduanTable extends Migration
+class CreateDaftarPemesanansTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,10 @@ class CreatePenggaduanTable extends Migration
      */
     public function up()
     {
-        Schema::create('penggaduan', function (Blueprint $table) {
-            $table->id();
-            $table->string('name');
-            $table->string('email')->unique();
-            $table->string('massage');
+        Schema::create('daftar_pemesanans', function (Blueprint $table) {
+            $table->bigIncrements('id_daftar_pemesanan');
+            $table->integer('kuota');
+            $table->date('tanggal');
             $table->timestamps();
         });
     }
@@ -29,6 +28,6 @@ class CreatePenggaduanTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('penggaduan');
+        Schema::dropIfExists('daftar_pemesanans');
     }
 }
