@@ -8,7 +8,7 @@
             </div>
         </div>
     </div>
-    <div class="address_2">
+    <div class="address_2 pb-5">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-4">
                 <div class="site_info">
@@ -29,15 +29,5 @@
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<div class="menu_main">
-    <div class="menu_text">
-        <ul>
-            <li class="active"><a href="{{ url('/') }}">Home</a></li>
-            <li><a href="{{ url('about') }}">About</a></li>
-            <li><a href="{{ url('booking') }}">Booking</a></li>
-            <li><a href="{{ url('contact') }}">Contact Us</a></li>
-        </ul>
     </div>
 </div>
