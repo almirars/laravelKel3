@@ -160,47 +160,47 @@
                     </div>
                 </div>
                 <!-- <div class="carousel-item">
-                                                                                                                                                            <div class="container">
-                                                                                                                                                                <div class="row marginii">
-                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                                                                                        <div class="carousel-sporrt_text ">
-                                                                                                                                                                            <h1 class="sporrt_text">Best sports item shop our</h1>
-                                                                                                                                                                            <p class="lorem_text">Tiket Pos 2</p>
-                                                                                                                                                                            <div class="btn_main">
-                                                                                                                                                                                <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                                                                                                                                                <div class="container">
+                                                                                                                                                                    <div class="row marginii">
+                                                                                                                                                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                            <div class="carousel-sporrt_text ">
+                                                                                                                                                                                <h1 class="sporrt_text">Best sports item shop our</h1>
+                                                                                                                                                                                <p class="lorem_text">Tiket Pos 2</p>
+                                                                                                                                                                                <div class="btn_main">
+                                                                                                                                                                                    <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                                                                                                                                                                </div>
+                                                                                                                                                                            </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                            <div class="img-box ">
+                                                                                                                                                                                <figure><img src="images/child-image.jpg"
+                                                                                                                                                                                        style="max-width: 100%; border: 15px solid #fff;" /></figure>
                                                                                                                                                                             </div>
                                                                                                                                                                         </div>
                                                                                                                                                                     </div>
-                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                                                                                        <div class="img-box ">
-                                                                                                                                                                            <figure><img src="images/child-image.jpg"
-                                                                                                                                                                                    style="max-width: 100%; border: 15px solid #fff;" /></figure>
-                                                                                                                                                                        </div>
-                                                                                                                                                                    </div>
                                                                                                                                                                 </div>
-                                                                                                                                                            </div>
-                                                                                                                                                        </div> -->
+                                                                                                                                                            </div> -->
                 <!-- <div class="carousel-item">
-                                                                                                                                                            <div class="container">
-                                                                                                                                                                <div class="row marginii">
-                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                                                                                        <div class="carousel-sporrt_text ">
-                                                                                                                                                                            <h1 class="sporrt_text">Best sports item shop our</h1>
-                                                                                                                                                                            <p class="lorem_text">Tiket Pos 3</p>
-                                                                                                                                                                            <div class="btn_main">
-                                                                                                                                                                                <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                                                                                                                                                <div class="container">
+                                                                                                                                                                    <div class="row marginii">
+                                                                                                                                                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                            <div class="carousel-sporrt_text ">
+                                                                                                                                                                                <h1 class="sporrt_text">Best sports item shop our</h1>
+                                                                                                                                                                                <p class="lorem_text">Tiket Pos 3</p>
+                                                                                                                                                                                <div class="btn_main">
+                                                                                                                                                                                    <a class="btn btn-lg btn-primary" href="#" role="button">Read More</a>
+                                                                                                                                                                                </div>
+                                                                                                                                                                            </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                                                                                                                                                            <div class="img-box">
+                                                                                                                                                                                <figure><img src="images/child-image.jpg"
+                                                                                                                                                                                        style="max-width: 100%; border: 15px solid #fff;" /></figure>
                                                                                                                                                                             </div>
                                                                                                                                                                         </div>
                                                                                                                                                                     </div>
-                                                                                                                                                                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                                                                                                                                                        <div class="img-box">
-                                                                                                                                                                            <figure><img src="images/child-image.jpg"
-                                                                                                                                                                                    style="max-width: 100%; border: 15px solid #fff;" /></figure>
-                                                                                                                                                                        </div>
-                                                                                                                                                                    </div>
                                                                                                                                                                 </div>
-                                                                                                                                                            </div>
-                                                                                                                                                        </div> -->
+                                                                                                                                                            </div> -->
             </div>
         </div>
     </section>
@@ -235,55 +235,21 @@
 
                         <!-- The slideshow -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <div class="titlepage">
-                                    <div class="john pb-4">
-                                        <div class="john_image"><img src="images/basketball.jpg" style="max-width: 100%;">
+                            @foreach ($jalurs as $data)
+                                <div class="carousel-item {{ $data['active'] }}">
+                                    <div class="titlepage">
+                                        <div class="john pb-4">
+                                            <div class="john_image"><img src="images/basketball.jpg"
+                                                    style="max-width: 100%;">
+                                            </div>
+                                            <div class="john_text">{{ $data['nama'] }}<span
+                                                    style="color: #fffcf4;">({{ $data['kategori'] }})</span></div>
+                                            <p class="lorem_ipsum_text">{{ $data['deskripsi'] }}</p>
                                         </div>
-                                        <div class="john_text">Cemoro Sewu<span style="color: #fffcf4;">(Rute
-                                                Termudah)</span></div>
-                                        <p class="lorem_ipsum_text">Cemoro Sewu terletak di jalan antara kabupaten
-                                            Karanganyar dan Magetan tepatnya di jalan dari Tawangmangu menuju Sarangan.
-                                            Untuk lebih mudahnya yang perlu kita tuju adalah Tawangmangu, Jawa Tengah. Jika
-                                            kita dari arah barat maka tujulah Solo, kemudian Tawangmangu. Jika dari arah
-                                            Timur maka tujulah arah Magetan, lalu Tawangmangu. Karena tempatnya yang populer
-                                            maka sekiranya akan mudah untuk menuju ke sana.</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="titlepage">
-                                    <div class="john pb-4">
-                                        <div class="john_image"><img src="images/basketball.jpg" style="max-width: 100%;">
-                                        </div>
-                                        <div class="john_text">Cemoro Kandang<span style="color: #fffcf4;">(Rute
-                                                Normal)</span></div>
-                                        <p class="lorem_ipsum_text">Cemoro Kandang terletak tidak jauh dari basecamp Cemoro
-                                            Sewu. Untuk mencapai basecamp Cemoro Kandang tidaklah susah. Sama seperti Cemoro
-                                            Sewu, kita hanya perlu menuju daerah Tawangmangu. Jika kita dari arah barat maka
-                                            tujulah Solo, kemudian Tawangmangu. Jika dari arah Timur maka tujulah arah
-                                            Magetan, lalu Tawangmangu. Karena tempatnya yang populer maka sekiranya akan
-                                            mudah untuk menuju ke sana.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="titlepage">
-                                    <div class="john pb-4">
-                                        <div class="john_image"><img src="images/basketball.jpg" style="max-width: 100%;">
-                                        </div>
-                                        <div class="john_text">Bandi Cetho<span style="color: #fffcf4;">(Rute Normal)</span>
-                                        </div>
-                                        <p class="lorem_ipsum_text">Jalur pendakian gunung lawu via cetho akhir - akhir ini
-                                            sangat diminati karena sekalian wisata di candi cetho dan kebun teh kemuning dan
-                                            yang paling diminati adalah jalur tracknya yang dipenuhi dengan padang savana,
-                                            untuk bisa sampai ke titik awal pendakian gunung lawu via candi cetho kamu bisa
-                                            menuju ke kawasan wisata candi cetho jika kamu berasal dari jakarta, bisa naik
-                                            kereta turun di solo kemudian naik bus menuju terminal ngargoyoso dari terminal
-                                            ini kamu bisa ojek atau sewa mobil menuju candi cetho hanya berjarak +-6km</p>
-                                    </div>
-                                </div>
-                            </div>
+                            @endforeach
+
                         </div>
 
                         <!-- Left and right controls -->

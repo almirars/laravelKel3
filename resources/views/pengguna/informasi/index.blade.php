@@ -28,66 +28,20 @@
         </div>
         <div class="container">
             <div class="row">
+               
+                @foreach ($informasi as $data)
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mb-4">
                     <div class="card">
                         <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Kabar Gembira! Macan Tutul Belum...</strong></h5>
-                            <h5 class="card-text text-secondary">Madiun, 11 Sep 2022</h5>
-                            <a href="{{ url('detail_informasi') }}" class="text-primary">Lihat Detail</a>
+                            <h5 class="card-title"><strong class="price_text">{{ $data['judul'] }}</strong></h5>
+                            <p class="card-text text-secondary">{{ $data['tgl'] }}</p>
+                            <a href="/detail_informasi/{{ $data['slug'] }}" class="text-primary">Lihat Detail</a>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="card">
-                        <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Sensasi lebaran di lawu</strong></h5>
-                            <p class="card-text text-secondary">3 Jam yang lalu</p>
-                            <a href="#" class="text-primary">Lihat Detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="card">
-                        <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Sensasi lebaran di lawu</strong></h5>
-                            <p class="card-text text-secondary">3 Jam yang lalu</p>
-                            <a href="#" class="text-primary">Lihat Detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="card">
-                        <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Sensasi lebaran di lawu</strong></h5>
-                            <p class="card-text text-secondary">3 Jam yang lalu</p>
-                            <a href="#" class="text-primary">Lihat Detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="card">
-                        <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Sensasi lebaran di lawu</strong></h5>
-                            <p class="card-text text-secondary">3 Jam yang lalu</p>
-                            <a href="#" class="text-primary">Lihat Detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="card">
-                        <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Sensasi lebaran di lawu</strong></h5>
-                            <p class="card-text text-secondary">3 Jam yang lalu</p>
-                            <a href="#" class="text-primary">Lihat Detail</a>
-                        </div>
-                    </div>
-                </div>
+                </div>     
+                @endforeach
+               
             </div>
         </div>
     </div>
