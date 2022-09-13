@@ -20,6 +20,9 @@ Route::get('/', [HomeController::class, 'index']);
 
 Route::get('/about', [HomeController::class, 'about']);
 
+Route::get('/detail_informasi', [HomeController::class, 'detail_informasi']);
+
+
 Route::get('/contact', [HomeController::class, 'contact']);
 
 Route::get('/booking', [HomeController::class, 'booking']);

@@ -32,9 +32,9 @@
                     <div class="card">
                         <img src="{{ asset('images/ga.png') }}" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title"><strong class="price_text">Sensasi lebaran di lawu</strong></h5>
-                            <p class="card-text text-secondary">3 Jam yang lalu</p>
-                            <a href="#" class="text-primary">Lihat Detail</a>
+                            <h5 class="card-title"><strong class="price_text">Kabar Gembira! Macan Tutul Belum...</strong></h5>
+                            <h5 class="card-text text-secondary">Madiun, 11 Sep 2022</h5>
+                            <a href="{{ url('detail_informasi') }}" class="text-primary">Lihat Detail</a>
                         </div>
                     </div>
                 </div>

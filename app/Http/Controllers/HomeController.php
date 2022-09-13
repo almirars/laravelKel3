@@ -26,6 +26,10 @@ class HomeController extends Controller
         return view('pengguna.informasi.index');
     }
 
+    public function detail_informasi()
+    {
+        return view('pengguna.informasi.detail_informasi');
+    }
     /**
      * Store a newly created resource in storage.
      *
@@ -41,4 +45,6 @@ class HomeController extends Controller
     {
         return view('pengguna.pemesanan.index');
     }
+
+    
 }
