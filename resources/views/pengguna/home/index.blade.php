@@ -94,18 +94,18 @@
     <div class="clothes_main section ">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-md-2">
-                    <img src="images/candi-cetho.png" alt="img" />
-                    <h4 class="text-center text-white">Candi Cetho</h4>
-                    <h4 class="text-center text-white"><i class="fa fa-download" aria-hidden="true"
-                            style="color:#009CFF;"></i></h4>
+                <div class="col-md-6 text-center">
+                    <img src="images/candi-cetho.png" alt="img" style="height: 500px" class="mb-3"/>
+                    <h4 class="text-white">Candi Cetho</h4>
+                    {{-- <h4 class="text-white"><i class="fa fa-download" aria-hidden="true"
+                            style="color:#009CFF;"></i></h4> --}}
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-6 text-center">
                     <div>
-                        <img src="images/peta-cemoro.png" alt="img" />
+                        <img src="images/peta-cemoro.png" alt="img" style="height: 500px" class="mb-3"/>
                         <h4 class="text-center text-white">Cemoro Sewu dan Cemoro Kandang</h4>
-                        <h4 class="text-center text-white"><i class="fa fa-download" aria-hidden="true"
-                                style="color:#009CFF;"></i></h4>
+                        {{-- <h4 class="text-center text-white"><i class="fa fa-download" aria-hidden="true"
+                                style="color:#009CFF;"></i></h4> --}}
                     </div>
                 </div>
             </div>
